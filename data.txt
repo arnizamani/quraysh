@@ -1,0 +1,385 @@
+# Declare persons and genders
+male prophet_muhammad
+male abd_allah_ibn_abd_al_muttalib
+male abd_al_muttalib_ibn_hashim
+male hashim_ibn_abd_manaf
+male abd_shams_ibn_abd_manaf
+male abd_manaf_ibn_qusai
+male qusai_ibn_kilab
+male kilab_ibn_murrah
+female khadijah
+female fatimah
+female aminah_bint_wahb
+male wahb_ibn_abd_manaf
+male uhayb_ibn_abd_manaf
+female barrah_bint_abd_al_uzza
+male habib_ibn_abd_shams
+male rabiah_ibn_habib
+male kurayz_ibn_rabiah
+male amir_ibn_kurayz
+male abdullah_ibn_amir
+male abd_manaf_ibn_zuhrah
+female hind_bint_abi_qaylah
+male zuhrah_ibn_kilab
+female juml_bint_malik
+male malik_ibn_qusayyah
+female salma_bint_hayyan
+male hayyan_ibn_ghanm
+female fatimah_bint_sad
+male murrah_ibn_kab
+male kab_ibn_luayy
+male luayy_ibn_ghalib
+male ghalib_ibn_fihr
+male fihr_ibn_malik
+male al_harith_ibn_fihr
+female salma_bint_luayy
+male malik_ibn_uhayb
+male sad_ibn_abi_waqqas
+female halah_bint_uhayb
+male hamzah_ibn_abd_al_muttalib
+male abd_al_uzza_ibn_uthman
+male uthman_ibn_abd_ad_dar
+female hind_bint_buwai
+male abd_ad_dar_ibn_qusai
+female umm_habib_bint_asad
+male asad_ibn_abd_al_uzza
+male abd_al_uzza_ibn_qusai
+female hudaybah_bint_amr
+male amr_ibn_utwarah
+male utwarah_ibn_aish
+male aish_ibn_zarib
+male zarib_ibn_al_harith
+female layla_bint_hilal
+male hilal_ibn_uhayb
+male al_jarrah_ibn_hilal
+male uhayb_ibn_dabbah
+male dabbah_ibn_al_harith
+male malik_ibn_an_nadr
+female khalidah_bint_aish
+female fatimah_bint_amr
+male amr_ibn_aidh
+male aidh_ibn_imran
+male imran_ibn_makhzum
+male makhzum_ibn_yaqazah
+male yaqazah_ibn_murrah
+female suda_bint_wahb
+male wahb_ibn_taym
+male taym_ibn_ghalib
+female sakhrah_bint_abd
+male abd_ibn_imran
+male abd_allah_ibn_al_jarrah
+male abu_ubaydah_ibn_al_jarrah
+male amr_ibn_aish
+female unknown_bint_wahb
+male jahdam_ibn_amr
+male umayyah_ibn_zarib
+female unknown_bint_umayyah
+male abd_ans_ibn_jahdam
+male al_harith_ibn_abd_ans
+male abu_unas_ibn_al_harith
+male utbah_ibn_abi_unas
+male abd_allah_ibn_utbah
+female al_bayda_bint_jahdam
+male suhayl_ibn_al_bayda
+female takhmur_bint_abd
+male abd_ibn_qusai
+female takhmur_bint_qusai
+male wajz_ibn_ghalib
+male ghalib_ibn_ghubshan
+female as_salafah_bint_wahib
+male khuwaylid_ibn_asad
+male amr_ibn_asad
+female barrah_bint_awf
+male awf_ibn_ubayd
+male ubayd_ibn_awij
+male awij_ibn_adi
+male adi_ibn_kab
+male buwai_ibn_milkan
+male ghubshan_ibn_amr
+male amr_ibn_buwai
+male amr_ibn_ghubshan
+male nadlah_ibn_amr
+male abd_amr_ibn_nadlah
+male amirah_ibn_abd_amr
+male wadiah_ibn_al_harith
+male amirah_ibn_wadiah
+male amirah_ibn_amirah
+female salma_bint_amirah
+female layla_ibn_malik
+female jandalah_bint_amir
+male an_nadr_ibn_kinanah
+male kinanah_ibn_khuzaymah
+male khuzaymah_ibn_mudrikah
+male mudrikah_ibn_ilyas
+male ilyas_ibn_mudar
+female atikah_bint_abd_al_uzza
+female qulabah_bint_suayd
+female halah_bint_abd_manaf
+female fatimah_bint_zaidah
+female raytah_bint_kab
+male taym_ibn_murrah
+male sad_ibn_taym
+male kab_ibn_sad
+female qilabah_bint_al_harith
+female hubbe_bint_hulayl
+female atikah_bint_murrah
+male murrah_ibn_hilal
+female safiyyah_bint_hawzah
+female salma_bint_amr
+male amr_ibn_zayd
+female amirah_bint_sakhr
+male zayd_ibn_labid
+male sakhr_ibn_habib
+female salma_bint_abd_al_ashhal
+male labid_ibn_khidash
+male khidash_ibn_amir
+male amir_ibn_ghanm
+male ghanm_ibn_adi
+male adi_ibn_an_najjar
+male an_najjar_ibn_thalabah
+male habib_ibn_al_harith
+male al_harith_ibn_thalabah
+male thalabah_ibn_mazin
+male mazin_ibn_an_najjar
+male abd_al_ashhal_ibn_harithah
+male harithah_ibn_dinar
+male dinar_ibn_an_najjar
+female al_uthaylah
+male jundab_ibn_amir
+male haram_ibn_jundab
+male zaura_ibn_haram
+male qays_ibn_zaura
+male as_sakkan_ibn_qays
+male qays_ibn_as_sakkan
+
+# Declare parental relationships as "CHILD PARENT"
+jundab_ibn_amir amir_ibn_ghanm
+haram_ibn_jundab jundab_ibn_amir
+zaura_ibn_haram haram_ibn_jundab
+al_uthaylah mazin_ibn_an_najjar
+qays_ibn_zaura zaura_ibn_haram
+as_sakkan_ibn_qays qays_ibn_zaura
+qays_ibn_as_sakkan as_sakkan_ibn_qays
+salma_bint_abd_al_ashhal al_uthaylah
+dinar_ibn_an_najjar an_najjar_ibn_thalabah
+harithah_ibn_dinar dinar_ibn_an_najjar
+abd_al_ashhal_ibn_harithah harithah_ibn_dinar
+salma_bint_abd_al_ashhal abd_al_ashhal_ibn_harithah
+mazin_ibn_an_najjar an_najjar_ibn_thalabah
+adi_ibn_an_najjar an_najjar_ibn_thalabah
+thalabah_ibn_mazin mazin_ibn_an_najjar
+al_harith_ibn_thalabah thalabah_ibn_mazin
+habib_ibn_al_harith al_harith_ibn_thalabah
+sakhr_ibn_habib habib_ibn_al_harith
+ghanm_ibn_adi adi_ibn_an_najjar
+amir_ibn_ghanm ghanm_ibn_adi
+khidash_ibn_amir amir_ibn_ghanm
+labid_ibn_khidash khidash_ibn_amir
+zayd_ibn_labid labid_ibn_khidash
+amirah_bint_sakhr salma_bint_abd_al_ashhal
+amirah_bint_sakhr sakhr_ibn_habib
+amr_ibn_zayd zayd_ibn_labid
+salma_bint_amr amirah_bint_sakhr
+salma_bint_amr amr_ibn_zayd
+abd_al_muttalib_ibn_hashim salma_bint_amr
+atikah_bint_murrah safiyyah_bint_hawzah
+atikah_bint_murrah murrah_ibn_hilal
+abd_shams_ibn_abd_manaf atikah_bint_murrah
+hashim_ibn_abd_manaf atikah_bint_murrah
+abd_ad_dar_ibn_qusai hubbe_bint_hulayl
+abd_al_uzza_ibn_qusai hubbe_bint_hulayl
+takhmur_bint_qusai hubbe_bint_hulayl
+abd_ibn_qusai hubbe_bint_hulayl
+abd_manaf_ibn_qusai hubbe_bint_hulayl
+barrah_bint_awf qilabah_bint_al_harith
+raytah_bint_kab kab_ibn_sad
+kab_ibn_sad sad_ibn_taym
+sad_ibn_taym taym_ibn_murrah
+taym_ibn_murrah murrah_ibn_kab
+atikah_bint_abd_al_uzza raytah_bint_kab
+asad_ibn_abd_al_uzza raytah_bint_kab
+khadijah fatimah_bint_zaidah
+fatimah_bint_zaidah halah_bint_abd_manaf
+halah_bint_abd_manaf qulabah_bint_suayd
+qulabah_bint_suayd atikah_bint_abd_al_uzza
+atikah_bint_abd_al_uzza abd_al_uzza_ibn_qusai
+mudrikah_ibn_ilyas ilyas_ibn_mudar
+khuzaymah_ibn_mudrikah mudrikah_ibn_ilyas
+kinanah_ibn_khuzaymah khuzaymah_ibn_mudrikah
+an_nadr_ibn_kinanah kinanah_ibn_khuzaymah
+malik_ibn_an_nadr an_nadr_ibn_kinanah
+fihr_ibn_malik jandalah_bint_amir
+ghalib_ibn_fihr layla_ibn_malik
+al_harith_ibn_fihr layla_ibn_malik
+takhmur_bint_abd salma_bint_amirah
+salma_bint_amirah amirah_ibn_amirah
+amirah_ibn_amirah amirah_ibn_wadiah
+amirah_ibn_wadiah wadiah_ibn_al_harith
+wadiah_ibn_al_harith al_harith_ibn_fihr
+ghalib_ibn_ghubshan ghubshan_ibn_amr
+amirah_ibn_abd_amr abd_amr_ibn_nadlah
+abd_amr_ibn_nadlah nadlah_ibn_amr
+nadlah_ibn_amr amr_ibn_ghubshan
+amr_ibn_ghubshan ghubshan_ibn_amr
+amr_ibn_buwai buwai_ibn_milkan
+ghubshan_ibn_amr amr_ibn_buwai
+hind_bint_buwai buwai_ibn_milkan
+uthman_ibn_abd_ad_dar hind_bint_buwai
+adi_ibn_kab kab_ibn_luayy
+awij_ibn_adi adi_ibn_kab
+ubayd_ibn_awij awij_ibn_adi
+awf_ibn_ubayd ubayd_ibn_awij
+barrah_bint_awf awf_ibn_ubayd
+umm_habib_bint_asad barrah_bint_awf
+khadijah khuwaylid_ibn_asad
+amr_ibn_asad asad_ibn_abd_al_uzza
+khuwaylid_ibn_asad asad_ibn_abd_al_uzza
+wajz_ibn_ghalib as_salafah_bint_wahib
+wajz_ibn_ghalib ghalib_ibn_ghubshan
+hind_bint_abi_qaylah wajz_ibn_ghalib
+hind_bint_abi_qaylah khalidah_bint_aish
+takhmur_bint_qusai qusai_ibn_kilab
+abd_ibn_imran takhmur_bint_qusai
+abd_ibn_qusai qusai_ibn_kilab
+takhmur_bint_abd abd_ibn_qusai
+sakhrah_bint_abd takhmur_bint_abd
+suhayl_ibn_al_bayda al_bayda_bint_jahdam
+al_bayda_bint_jahdam jahdam_ibn_amr
+abd_allah_ibn_utbah utbah_ibn_abi_unas
+utbah_ibn_abi_unas abu_unas_ibn_al_harith
+abu_unas_ibn_al_harith al_harith_ibn_abd_ans
+al_harith_ibn_abd_ans abd_ans_ibn_jahdam
+abd_ans_ibn_jahdam jahdam_ibn_amr
+jahdam_ibn_amr unknown_bint_umayyah
+umayyah_ibn_zarib zarib_ibn_al_harith
+jahdam_ibn_amr amr_ibn_aish
+amr_ibn_aish unknown_bint_wahb
+amr_ibn_aish aish_ibn_zarib
+abu_ubaydah_ibn_al_jarrah abd_allah_ibn_al_jarrah
+abd_allah_ibn_al_jarrah al_jarrah_ibn_hilal
+al_jarrah_ibn_hilal hilal_ibn_uhayb
+abd_ibn_imran imran_ibn_makhzum
+sakhrah_bint_abd abd_ibn_imran
+fatimah_bint_amr sakhrah_bint_abd
+taym_ibn_ghalib ghalib_ibn_fihr
+wahb_ibn_taym taym_ibn_ghalib
+suda_bint_wahb wahb_ibn_taym
+imran_ibn_makhzum suda_bint_wahb
+yaqazah_ibn_murrah murrah_ibn_kab
+makhzum_ibn_yaqazah yaqazah_ibn_murrah
+imran_ibn_makhzum makhzum_ibn_yaqazah
+aidh_ibn_imran imran_ibn_makhzum
+amr_ibn_aidh aidh_ibn_imran
+fatimah_bint_amr amr_ibn_aidh
+abd_allah_ibn_abd_al_muttalib fatimah_bint_amr
+khalidah_bint_aish aish_ibn_zarib
+fihr_ibn_malik malik_ibn_an_nadr
+uhayb_ibn_dabbah dabbah_ibn_al_harith
+hilal_ibn_uhayb uhayb_ibn_dabbah
+layla_bint_hilal hilal_ibn_uhayb
+hudaybah_bint_amr layla_bint_hilal
+zarib_ibn_al_harith al_harith_ibn_fihr
+aish_ibn_zarib zarib_ibn_al_harith
+aish_ibn_zarib salma_bint_luayy
+utwarah_ibn_aish aish_ibn_zarib
+amr_ibn_utwarah utwarah_ibn_aish
+hudaybah_bint_amr amr_ibn_utwarah
+asad_ibn_abd_al_uzza abd_al_uzza_ibn_qusai
+umm_habib_bint_asad asad_ibn_abd_al_uzza
+barrah_bint_abd_al_uzza umm_habib_bint_asad
+abd_ad_dar_ibn_qusai qusai_ibn_kilab
+uthman_ibn_abd_ad_dar abd_ad_dar_ibn_qusai
+abd_al_uzza_ibn_uthman uthman_ibn_abd_ad_dar
+abd_al_uzza_ibn_uthman hudaybah_bint_amr
+barrah_bint_abd_al_uzza abd_al_uzza_ibn_uthman
+sad_ibn_abi_waqqas malik_ibn_uhayb
+malik_ibn_uhayb uhayb_ibn_abd_manaf
+halah_bint_uhayb uhayb_ibn_abd_manaf
+hamzah_ibn_abd_al_muttalib halah_bint_uhayb
+hamzah_ibn_abd_al_muttalib abd_al_muttalib_ibn_hashim
+ghalib_ibn_fihr fihr_ibn_malik
+al_harith_ibn_fihr fihr_ibn_malik
+luayy_ibn_ghalib ghalib_ibn_fihr
+salma_bint_luayy luayy_ibn_ghalib
+kab_ibn_luayy luayy_ibn_ghalib
+murrah_ibn_kab kab_ibn_luayy
+kilab_ibn_murrah murrah_ibn_kab
+zuhrah_ibn_kilab fatimah_bint_sad
+qusai_ibn_kilab fatimah_bint_sad
+juml_bint_malik salma_bint_hayyan
+salma_bint_hayyan hayyan_ibn_ghanm
+juml_bint_malik malik_ibn_qusayyah
+zuhrah_ibn_kilab kilab_ibn_murrah
+qusai_ibn_kilab kilab_ibn_murrah
+abd_manaf_ibn_qusai qusai_ibn_kilab
+hashim_ibn_abd_manaf abd_manaf_ibn_qusai
+abd_shams_ibn_abd_manaf abd_manaf_ibn_qusai
+abd_al_muttalib_ibn_hashim hashim_ibn_abd_manaf
+abd_allah_ibn_abd_al_muttalib abd_al_muttalib_ibn_hashim
+prophet_muhammad abd_allah_ibn_abd_al_muttalib
+prophet_muhammad aminah_bint_wahb
+aminah_bint_wahb wahb_ibn_abd_manaf
+wahb_ibn_abd_manaf abd_manaf_ibn_zuhrah
+uhayb_ibn_abd_manaf abd_manaf_ibn_zuhrah
+abd_manaf_ibn_zuhrah zuhrah_ibn_kilab
+abd_manaf_ibn_zuhrah juml_bint_malik
+wahb_ibn_abd_manaf hind_bint_abi_qaylah
+uhayb_ibn_abd_manaf hind_bint_abi_qaylah
+aminah_bint_wahb barrah_bint_abd_al_uzza
+fatimah prophet_muhammad
+rabiah_ibn_habib habib_ibn_abd_shams
+kurayz_ibn_rabiah rabiah_ibn_habib
+amir_ibn_kurayz kurayz_ibn_rabiah
+abdullah_ibn_amir amir_ibn_kurayz
+
+# Declare equalities and inequalities. Only = and <= are accepted.
+prophet_muhammad <= 571     # born before 571
+-prophet_muhammad <= -568  # born after 568
+prophet_muhammad -khadijah = 15
+prophet_muhammad -aminah_bint_wahb <= 20
+prophet_muhammad -fatimah <= -29  # The prophet was between 29 and 39 at her birth, since she was forth or fifth child.
+fatimah -prophet_muhammad <= 39
+
+# The age of Hashim at his birth was between 30 and 50 (reported to be 32/33)
+hashim_ibn_abd_manaf -abd_al_muttalib_ibn_hashim <= -30
+abd_al_muttalib_ibn_hashim -hashim_ibn_abd_manaf <= 50
+
+# Born between 492 and 502
+abd_al_muttalib_ibn_hashim <= 502
+-abd_al_muttalib_ibn_hashim <= -492
+
+# Born in 625 or 626
+abdullah_ibn_amir <= 626
+-abdullah_ibn_amir <= -625
+
+abd_shams_ibn_abd_manaf -hashim_ibn_abd_manaf = 0
+zuhrah_ibn_kilab -qusai_ibn_kilab <= -10  # Zurah was at least 10 years older than qusai
+
+sad_ibn_abi_waqqas <= 599     # born before 599
+-sad_ibn_abi_waqqas <= -595  # born after 595
+
+prophet_muhammad -hamzah_ibn_abd_al_muttalib = 2
+abu_ubaydah_ibn_al_jarrah = 584
+
+# He was killed by the orders of Marwan ibn al-Hakam (d.685) in Egypt. So birth would be approximately between 620 - 650
+abd_allah_ibn_utbah <= 650
+-abd_allah_ibn_utbah <= -620
+
+# Sahabi, born about 31 BH (592)
+suhayl_ibn_al_bayda <= 595
+-suhayl_ibn_al_bayda <= -590
+
+# Amr ibn Asad ibn Abd al-Uzza 
+amr_ibn_asad <= 540
+-amr_ibn_asad <= -505
+
+# Badri Sahabi, died in Badr
+amirah_ibn_abd_amr <= 594
+-amirah_ibn_abd_amr <= -584
+
+# She was at least 30 years old when Abd al-Muttalib was born
+salma_bint_amr -abd_al_muttalib_ibn_hashim <= -30
+
+# Badri Sahabi
+-qays_ibn_as_sakkan <= -560
+qays_ibn_as_sakkan <= 600
