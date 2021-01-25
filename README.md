@@ -16,13 +16,13 @@ Therefore, it is extremely hard to know when a certain individual lived in the a
 [Qusai ibn Kilab](https://en.wikipedia.org/wiki/Qusai_ibn_Kilab) was the fifth grandfather (male line) of the Prophet Muhammad ﷺ. We can estimate his birth date by taking 35 as the average distance between two generations.
 Thus, his birth is estimated to be
 ```
-"570 - 5*35 = 395
+570 - 5*35 = 395
 ```
 (570 being the approximate birth year of the Prophet).
 
 However, that is a very crude way of measuring birth date of a person.
 
-If we use linear programming, we can connect Qusai ibn Kilab to all his ancestors with known birth dates. Then we can add constraints such as the following:
+If we use linear programming, we can connect Qusai ibn Kilab to all his descendants and ancestors with known birth dates (there is none in ancestors, but several in descendants). Then we can add constraints such as the following:
 
 1. A male can give birth to a child earliest at age 15 and latest at age 70.
 2. A female can have a child earliest at age 15 and latest at age 50.

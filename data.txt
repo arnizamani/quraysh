@@ -151,8 +151,28 @@ male zaura_ibn_haram
 male qays_ibn_zaura
 male as_sakkan_ibn_qays
 male qays_ibn_as_sakkan
+female fatimah_bint_abd_allah
+male abd_allah_ibn_rizam
+male rizam_ibn_rabiah
+female fatimah_bint_al_harith
+male rabiah_ibn_jahwash
+male jahwash_ibn_muawiyah
+male muawiyah_ibn_bakr
+male bakr_ibn_hawazin
+male hawazin_ibn_mansur
+male mansur_ibn_ikrimah
 
 # Declare parental relationships as "CHILD PARENT"
+hawazin_ibn_mansur mansur_ibn_ikrimah
+bakr_ibn_hawazin hawazin_ibn_mansur
+muawiyah_ibn_bakr bakr_ibn_hawazin
+jahwash_ibn_muawiyah muawiyah_ibn_bakr
+rabiah_ibn_jahwash jahwash_ibn_muawiyah
+rizam_ibn_rabiah rabiah_ibn_jahwash
+fatimah_bint_abd_allah fatimah_bint_al_harith
+abd_allah_ibn_rizam rizam_ibn_rabiah
+fatimah_bint_abd_allah abd_allah_ibn_rizam
+amr_ibn_aidh fatimah_bint_abd_allah
 jundab_ibn_amir amir_ibn_ghanm
 haram_ibn_jundab jundab_ibn_amir
 zaura_ibn_haram haram_ibn_jundab
@@ -339,6 +359,8 @@ prophet_muhammad -khadijah = 15
 prophet_muhammad -aminah_bint_wahb <= 20
 prophet_muhammad -fatimah <= -29  # The prophet was between 29 and 39 at her birth, since she was forth or fifth child.
 fatimah -prophet_muhammad <= 39
+
+-abd_allah_ibn_abd_al_muttalib <= -550
 
 # The age of Hashim at his birth was between 30 and 50 (reported to be 32/33)
 hashim_ibn_abd_manaf -abd_al_muttalib_ibn_hashim <= -30
