@@ -6,7 +6,7 @@ Individuals are declared with their gender and child-parent relationships are en
 The default data file provided contains genealogical records of pre-Islamic Arabs including the tribe of Quraysh (hence the name). Use it as a template to create your own data file.
 
 ## Arab Ancestry
-There are numerous genealogical records of pre-Islamic (up to the Rashidun Caliphdate) people, with hundreds of thousands of individuals mentioned in several books written in the early centruies AH (After Hijrah).
+There are numerous genealogical records of pre-Islamic (up to the Rashidun Caliphdate) people, with hundreds of thousands of individuals mentioned in several books written in the early centuries AH (After Hijrah).
 
 However, there is absolutely no information about their birth dates, except for those that lived closer to the beginning of Islam. Even in such cases, the birth dates are estimates rather than absolute dates, since Arabs didn't use a calendar system until the second Rashidun Caliph Umar ibn al-Khattab created one based on the lunar months used by the Arabs.
 

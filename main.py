@@ -1,3 +1,4 @@
+#!/usr/env/python3
 from argparse import ArgumentParser
 import pandas as pd
 from scipy import optimize
